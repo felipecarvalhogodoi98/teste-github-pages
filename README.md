@@ -1,6 +1,6 @@
 # GitHub Pages Deploy with Actions
 
-- Setup environment typescript
+- Setup environment React typescript
 - Config GitHub pages
 - GitHub Actions
 
