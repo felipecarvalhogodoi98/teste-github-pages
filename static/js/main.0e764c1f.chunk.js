@@ -1,0 +1,2 @@
+(this["webpackJsonpteste-github-pages"]=this["webpackJsonpteste-github-pages"]||[]).push([[0],{9:function(e,t,s){"use strict";s.r(t);var c=s(1),n=s.n(c),i=s(3),r=s.n(i),o=s(0),d=function(){return Object(o.jsxs)("div",{children:[Object(o.jsx)("h1",{children:"Hello world!"}),Object(o.jsx)("p",{children:"First test action"})]})};r.a.render(Object(o.jsx)(n.a.StrictMode,{children:Object(o.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.0e764c1f.chunk.js.map
